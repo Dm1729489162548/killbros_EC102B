@@ -4,7 +4,7 @@
 
 body {
     margin: 0;
-    background-color: #F28482;
+    background-color: #00fcff;
     font-family: Montserrat;
     display: flex;
     justify-content: center;
@@ -39,7 +39,7 @@ nav a {
     color: white;
     text-align: center;
     padding: 14px 20px;
-    text-decoration: none;
+    text-decoration: ;
 }
 
 nav a:hover {
@@ -131,9 +131,9 @@ input ::placeholder{
 
 #title{
     font-family: "Madimi One", sans-serif;
-    font-size: 64px;
+    font-size: 55px;
     font-weight: 800;
-    color: #F28482;
+    color: rgb(255,234,55);
 }
 
 #text{
@@ -152,7 +152,7 @@ input ::placeholder{
 }
 
 #choose-card span{
-    color: #84A59D;
+    color: #00ffff;
     font-weight: 800;
 }
 
